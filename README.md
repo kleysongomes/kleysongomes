@@ -17,6 +17,7 @@
   <img align="center" alt="#" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-plain.svg">
 </div>
 <!-- Linha -->
+ 
 ##
 
 <!-- Redes Sociais -->
