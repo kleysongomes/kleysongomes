@@ -14,7 +14,9 @@
   <img align="center" alt="#" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="#" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/php/php-plain.svg">
   <img align="center" alt="#" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-plain.svg">
+  <img align="center" alt="#" height="30" width="40" src="https://github.com/kleysongomes/kleysongomes/blob/main/.github/workflows/download-removebg-preview.png"> 
   <img align="center" alt="#" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-plain.svg">
+  
 </div>
 <!-- Linha -->
  
