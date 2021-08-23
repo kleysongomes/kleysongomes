@@ -1,4 +1,4 @@
-## Olá, eu sou o Kleyson Gomes
+## Olá, eu sou Kleyson :D
 <!-- Git stats -->
  <div>
   <a href="https://github.com/kleysongomes">
@@ -6,11 +6,17 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kleysongomes&layout=compact&langs_count=7&theme=dracula"/>
 </div>
  
+ ##
  <!-- Projetos atuais -->
-### Projetos Atuais {
-#### 1- Som Escrito - Desenvolvimento de uma plataforma para pessoas surdas;
-#### 2- GTA RP - Desenvolvimento de script para o Framework FIVEM;
-### };
+
+ PROJETOS ATUAIS
+ 
+
+ [Som Escrito](https://github.com/kleysongomes/somescrito) 👨🏼‍🏫 - Uma plataforma para pessoas surdas com o intuito de fornecer informações sobre os emissores de sons, tais como densidade sonora, sentimento que o som causa nas pessoas e muito mais. 
+
+ [Inventário](https://github.com/kleysongomes/inventarioRP) 💻 - Script de um inventario baseado em LUA, JavaScritp, HTML e CSS para utilização dentro do framework FiveM dentro do jogo GTA.
+
+ 
 <!-- Liguagens utilizadas -->
 <div style="display: inline_block"><br>
   <img align="center" alt="#" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-plain.svg">
