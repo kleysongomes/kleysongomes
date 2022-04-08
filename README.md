@@ -12,9 +12,7 @@
  PROJETOS ATUAIS
  
 
- [Som Escrito](https://github.com/kleysongomes/somescrito) 👨🏼‍🏫 - Uma plataforma para pessoas surdas com o intuito de fornecer informações sobre os emissores de sons, tais como densidade sonora, sentimento que o som causa nas pessoas e muito mais. 
-
- [Inventário](https://github.com/kleysongomes/inventarioRP) 💻 - Script de um inventario baseado em LUA, JavaScritp, HTML e CSS para utilização no framework FiveM dentro do jogo GTA.
+- Atuando no desenvolvimento de novas funções e rotinas pra sistemas TOTVS
 
  
 <!-- Liguagens utilizadas -->
