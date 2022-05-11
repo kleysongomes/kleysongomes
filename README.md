@@ -1,4 +1,3 @@
-## Olá, eu sou Kleyson :D
 <!-- Git stats -->
  <div>
   <a href="https://github.com/kleysongomes">
