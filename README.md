@@ -1,7 +1,7 @@
 ## Olá, eu sou Kleyson :D
 
 <p align="center">
-  <img src="https://github.com/kleysongomesmorada/kleysongomesmorada/blob/main/imgs/img.png" />
+<!--   <img src="https://github.com/kleysongomesmorada/kleysongomesmorada/blob/main/imgs/img.png" /> -->
 </p>
 
 ##
