@@ -5,6 +5,9 @@
 </p>
 
 ### Analista Desenvolvedor pela Estácio, Pós-graduado em Gestão Estratégica de TI
+<br>
+### Fundador da Desbravalink tecnologia e inovação
+Conheça: <a href="https://desbravalink.com.br/" target="_blank">Desbravalink</a>
 
 <!-- Redes Sociais -->
 <div> 
