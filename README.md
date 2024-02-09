@@ -1,14 +1,10 @@
 ## Olá, eu sou Kleyson :D
-
-<p align="center">
-<!--   <img src="https://github.com/kleysongomesmorada/kleysongomesmorada/blob/main/imgs/img.png" /> -->
-</p>
-
 ### Analista Desenvolvedor pela Estácio, Pós-graduado em Gestão Estratégica de TI
 <br>
 Fundador da Desbravalink tecnologia e inovação
 <br>
 Conheça: <a href="https://desbravalink.com.br/" target="_blank">Desbravalink</a>
+<br>
 
 <!-- Redes Sociais -->
 <div> 
