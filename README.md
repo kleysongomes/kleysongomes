@@ -1,5 +1,5 @@
 ## Olá, eu sou Kleyson :D
-### Analista Desenvolvedor pela Estácio, Pós-graduado em Gestão Estratégica de TI
+### Analista Desenvolvedor, Pós-graduado em Gestão Estratégica de TI
 <br>
 Fundador da Desbravalink tecnologia e inovação
 <br>
