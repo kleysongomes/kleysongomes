@@ -23,13 +23,4 @@
  Pós-graduando em Gestão de TI <br>
  Tecnólogo em Análise e desenvolvimento de sistemas <br>
  Stacks: `Flutter` `DART` `Python` `ADVPL` `REST` `SQL` `SQL Server` `ITIL` `TOTVS Protheus`
-
-<br> 
-
-## 🪱 Estatísticas
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kleysongomes&show_icons=true&bg_color=000000&title_color=993399&text_color=993399&icon_color=993399&border_color=993399" alt="Estatísticas do GitHub" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kleysongomes&layout=compact&bg_color=000000&title_color=993399&text_color=993399&icon_color=993399&border_color=993399" alt="Linguagens mais usadas" />
-</p>
 </div>
