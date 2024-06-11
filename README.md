@@ -19,8 +19,8 @@
 <br>
 <br> 
 
- CEO e Fundados da Desbravalink <br>
- Pós-graduando em Gestão de TI <br>
+ CEO e Fundador da Desbravalink <br>
+ Pós-graduado em Gestão de TI <br>
  Tecnólogo em Análise e desenvolvimento de sistemas <br>
  Stacks: `Flutter` `DART` `Python` `ADVPL` `REST` `SQL` `SQL Server` `ITIL` `TOTVS Protheus`
 </div>
