@@ -1,16 +1,35 @@
-## Olá, eu sou Kleyson :D
-### Analista Desenvolvedor, Pós-graduado em Gestão Estratégica de TI
-<br>
-Fundador da Desbravalink tecnologia e inovação
-<br>
-Conheça: <a href="https://desbravalink.com.br/" target="_blank">Desbravalink</a>
-<br>
-<br>
+<link href="https://fonts.googleapis.com/css2?family=Dancing+Script:wght@700&display=swap" rel="stylesheet">
 
-<!-- Redes Sociais -->
-<div> 
-  <a href="https://www.instagram.com/_kleyson/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/kleyson-gomes-060a99115/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+<div align="center">
+  <h3 style="color:#FF69B4; font-family:Cursive;">Olá, sou a Kleyson</h3>
+  <p align="right">
+    <img src="https://komarev.com/ghpvc/?username=kleysongomes&color=993399&style=flat-square" alt="Contador de Visitas" />
+  </p>
 </div>
-<!-- Cobrinha Comendo Commits -->
+
+<p align="center"> 
+  <samp>
+    「 Desenvolvendo um mundo novo 」
+    <br>
+    <br>
+  </samp>
   
+</p>
+<br>
+<br>
+<br> 
+
+ CEO e Fundados da Desbravalink <br>
+ Pós-graduando em Gestão de TI <br>
+ Tecnólogo em Análise e desenvolvimento de sistemas <br>
+ Stacks: `Flutter` `DART` `Python` `ADVPL` `REST` `SQL` `SQL Server` `ITIL` `TOTVS Protheus`
+
+<br> 
+
+## 🪱 Estatísticas
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=kleysongomes&show_icons=true&bg_color=000000&title_color=993399&text_color=993399&icon_color=993399&border_color=993399" alt="Estatísticas do GitHub" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kleysongomes&layout=compact&bg_color=000000&title_color=993399&text_color=993399&icon_color=993399&border_color=993399" alt="Linguagens mais usadas" />
+</p>
+</div>
