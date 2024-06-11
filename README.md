@@ -1,7 +1,7 @@
 <link href="https://fonts.googleapis.com/css2?family=Dancing+Script:wght@700&display=swap" rel="stylesheet">
 
 <div align="center">
-  <h3 style="color:#FF69B4; font-family:Cursive;">Olá, sou a Kleyson</h3>
+  <h3 style="color:#FF69B4; font-family:Cursive;">Olá, sou o Kleyson</h3>
   <p align="right">
     <img src="https://komarev.com/ghpvc/?username=kleysongomes&color=993399&style=flat-square" alt="Contador de Visitas" />
   </p>
