@@ -11,7 +11,6 @@
   <samp>
     「 Desenvolvendo um mundo novo 」
     <br>
-    <br>
   </samp>
   
 </p>
