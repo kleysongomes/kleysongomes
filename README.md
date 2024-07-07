@@ -14,19 +14,27 @@
     <br>
     「 Acesse meus trabalhos publicados: 」
     <br><br>
-    <a href="https://desbravalink.com.br/" style="text-decoration: none;">
+    <a href="https://desbravalink.com.br/" style="text-decoration: none; target="_blank"">
       <button style="padding: 10px 20px; margin: 5px; font-size: 16px; background-color: #02569B; color: white; border: none; border-radius: 5px;">
         <i class="fas fa-globe"></i> Desbravalink (Site Startup)
       </button>
     </a>
-    <a href="https://beeework-frontend-desbravalinks-projects.vercel.app/" style="text-decoration: none;">
+  </br>
+    <a href="https://beeework-frontend-desbravalinks-projects.vercel.app/" style="text-decoration: none; target="_blank"">
       <button style="padding: 10px 20px; margin: 5px; font-size: 16px; background-color: #FFD700; color: black; border: none; border-radius: 5px;">
         <i class="fas fa-briefcase"></i> beeework (Sistema de Recrutamento e Seleção)
       </button>
     </a>
-    <a href="https://play.google.com/store/apps/dev?id=5387164277767526968" style="text-decoration: none;">
+    </br>
+    <a href="https://play.google.com/store/apps/dev?id=5387164277767526968" style="text-decoration: none; target="_blank"">
       <button style="padding: 10px 20px; margin: 5px; font-size: 16px; background-color: #34A853; color: white; border: none; border-radius: 5px;">
         <i class="fab fa-google-play"></i> Mobile (Lista de aplicativos publicados)
+      </button>
+    </a>
+    </br>
+    <a href="https://kleysongomes.vercel.app/" style="text-decoration: none; target="_blank"">
+      <button style="padding: 10px 20px; margin: 5px; font-size: 16px; background-color: #34A853; color: white; border: none; border-radius: 5px;">
+        <i class="fab fa-google-play"></i> Portifólio (Mais detalhes sobre mim)
       </button>
     </a>
   </samp>
