@@ -43,8 +43,8 @@
 <br>
 <br> 
 
-<div align="center">
-  CEO e Fundador da Desbravalink <br>
+<div align="left">
+  Fundador da Desbravalink <br>
   Pós-graduado em Gestão de TI <br>
   Tecnólogo em Análise e desenvolvimento de sistemas <br>
   Stacks: 
