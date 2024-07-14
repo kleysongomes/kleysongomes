@@ -46,7 +46,7 @@
   Fundador da Desbravalink <br>
   Pós-graduado em Gestão de TI <br>
   Tecnólogo em Análise e desenvolvimento de sistemas <br>
-  Stacks: 
+  Skills: 
   <code><i class="fab fa-flutter"></i> Flutter</code> 
   <code><i class="fas fa-code"></i> DART</code> 
   <code><i class="fab fa-python"></i> Python</code> 
