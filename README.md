@@ -2,7 +2,7 @@
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
 
 <div align="center">
-  <h3 style="color:#FF69B4; font-family:Cursive;">Olá, sou o Kleyson</h3>
+  <h3 style="color:#FF69B4; font-family:Cursive;">Olá, sou Kleyson</h3>
   <p align="right">
     <img src="https://komarev.com/ghpvc/?username=kleysongomes&color=000000&style=flat-square" alt="Contador de Visitas" />
   </p>
