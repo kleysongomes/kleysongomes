@@ -9,7 +9,7 @@
 
 <p align="center"> 
   <samp>
-    「 Desenvolvendo um mundo novo 」
+    「 Desenvolvendo o novo 」
     <br>
     「 Acesse meus trabalhos publicados: 」
     <br><br>
