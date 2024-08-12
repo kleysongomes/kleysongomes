@@ -6,7 +6,6 @@
     <img src="https://komarev.com/ghpvc/?username=kleysongomes&color=000000&style=flat-square" alt="Contador de Visitas" />
   </p>
 </div>
-
 <p align="center"> 
   <samp>
     「 Desenvolvendo o novo 」
