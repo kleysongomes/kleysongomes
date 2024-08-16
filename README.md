@@ -51,13 +51,14 @@
   Pós-graduado em Gestão de TI <br>
   Tecnólogo em Análise e desenvolvimento de sistemas <br>
   Skills: 
-  <code><i class="fab fa-flutter"></i> Flutter</code> 
-  <code><i class="fas fa-code"></i> DART</code> 
-  <code><i class="fab fa-python"></i> Python</code> 
+  <code><i class="fas fa-project-diagram"></i> TOTVS Protheus</code>
   <code><i class="fas fa-database"></i> ADVPL</code> 
+  <code><i class="fas fa-code"></i> DART</code> 
+  <code><i class="fab fa-flutter"></i> Flutter</code> 
+  <code><i class="fas fa-project-diagram"></i> Ruby on Rails</code>
+  <code><i class="fab fa-python"></i> Python</code> 
   <code><i class="fas fa-link"></i> REST</code> 
   <code><i class="fas fa-database"></i> SQL</code> 
   <code><i class="fas fa-server"></i> SQL Server</code> 
   <code><i class="fas fa-cogs"></i> ITIL</code> 
-  <code><i class="fas fa-project-diagram"></i> TOTVS Protheus</code>
 </div>
