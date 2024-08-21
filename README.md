@@ -45,7 +45,6 @@
 </p>
 <br>
 <br> 
-
 <div align="left">
   Fundador da Desbravalink <br>
   Pós-graduado em Gestão de TI <br>
