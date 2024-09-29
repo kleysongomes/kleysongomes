@@ -47,7 +47,7 @@
 <div align="left">
   Fundador da Desbravalink <br>
   Pós-graduado em Gestão de TI <br>
-  Tecnólogo em Análise e desenvolvimento de sistemas <br>
+  Tecnólogo em Análise e Desenvolvimento de Sistemas <br>
   Skills: 
   <code><i class="fas fa-project-diagram"></i> TOTVS Protheus</code>
   <code><i class="fas fa-database"></i> ADVPL</code> 
