@@ -45,12 +45,13 @@
 </p>
 <br> 
 <div align="left">
-  Fundador da Desbravalink <br>
+  Analista Desenvolvedor Pleno <br>
   Pós-graduado em Gestão de TI <br>
   Tecnólogo em Análise e Desenvolvimento de Sistemas <br>
   Skills: 
   <code><i class="fas fa-project-diagram"></i> TOTVS Protheus</code>
   <code><i class="fas fa-database"></i> ADVPL</code> 
+  <code><i class="fas fa-database"></i> TLPP</code> 
   <code><i class="fas fa-code"></i> DART</code> 
   <code><i class="fab fa-flutter"></i> Flutter</code> 
   <code><i class="fas fa-project-diagram"></i> Ruby on Rails</code>
