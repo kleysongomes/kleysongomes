@@ -54,7 +54,6 @@
   <code><i class="fas fa-database"></i> TLPP</code> 
   <code><i class="fab fa-flutter"></i> Flutter</code> 
   <code><i class="fas fa-link"></i> REST</code> 
-  <code><i class="fas fa-database"></i> Angular</code> 
   <code><i class="fas fa-server"></i> SQL Server</code> 
   <code><i class="fas fa-cogs"></i> ITIL</code> 
 </div>
